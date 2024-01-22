@@ -1,0 +1,13 @@
+(Square Matrix)
+Name: A
+Length: 2
+	1	2
+	3	4
+
+(DiagonalMatrix matrix)
+Name: B
+Length: 3
+	10	0	0
+	0	20	0
+	0	0	30
+
